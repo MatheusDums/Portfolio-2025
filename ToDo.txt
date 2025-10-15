@@ -1,0 +1,5 @@
+1. header
+2. hero
+3. about me
+4. stacks
+5. projects

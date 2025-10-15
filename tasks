@@ -1,0 +1,42 @@
+<div class="col-md-4 mb-4">
+                    <div class="skill-card text-center">
+                        <i class="fab fa-html5 skill-icon"></i>
+                        <h4>Frontend</h4>
+                        <p>HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="skill-card text-center">
+                        <i class="fas fa-server skill-icon"></i>
+                        <h4>Backend</h4>
+                        <p>Node.js, Python, PHP, Express, Django, REST APIs</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="skill-card text-center">
+                        <i class="fas fa-database skill-icon"></i>
+                        <h4>Banco de Dados</h4>
+                        <p>MySQL, PostgreSQL, MongoDB, Firebase</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="skill-card text-center">
+                        <i class="fas fa-mobile-alt skill-icon"></i>
+                        <h4>Mobile</h4>
+                        <p>React Native, Flutter, Design Responsivo</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="skill-card text-center">
+                        <i class="fab fa-git-alt skill-icon"></i>
+                        <h4>Versionamento</h4>
+                        <p>Git, GitHub, GitLab, Bitbucket</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="skill-card text-center">
+                        <i class="fas fa-tools skill-icon"></i>
+                        <h4>Ferramentas</h4>
+                        <p>VS Code, Docker, Figma, Postman</p>
+                    </div>
+                </div>
