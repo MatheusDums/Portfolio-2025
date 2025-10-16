@@ -497,6 +497,10 @@ footer {
     .profile-pic {
         margin-top: 100px;
     }
+
+    .botao-verTodos {
+        width: auto;
+    }
 }
 
 @media (max-width: 480px) {
@@ -512,6 +516,10 @@ footer {
 
     .profile-pic {
         margin-top: 100px;
+    }
+
+    .botao-verTodos {
+        width: auto;
     }
 }
 
@@ -546,6 +554,10 @@ footer {
     .profile-pic {
         margin-top: 100px;
     }
+
+    .botao-verTodos {
+        width: auto;
+    }
 }
 
 @media (max-width: 480px) {
@@ -563,6 +575,9 @@ footer {
 
     .profile-pic {
         margin-top: 100px;
+    }
+    .botao-verTodos {
+        width: auto;
     }
 }
 
