@@ -493,6 +493,10 @@ footer {
         gap: 20px;
         padding: 10px;
     }
+
+    .profile-pic {
+        margin-top: 30px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -504,6 +508,10 @@ footer {
     .front-icons i,
     .front-icons .tech-icon {
         font-size: clamp(1.8rem, 4vw, 2.5rem);
+    }
+
+    .profile-pic {
+        margin-top: 30px;
     }
 }
 
@@ -535,6 +543,9 @@ footer {
     .section {
         padding: 3rem 0;
     }
+    .profile-pic {
+        margin-top: 30px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -548,6 +559,10 @@ footer {
     
     .typing-text {
         font-size: clamp(1.5rem, 5vw, 1.8rem);
+    }
+
+    .profile-pic {
+        margin-top: 30px;
     }
 }
 
