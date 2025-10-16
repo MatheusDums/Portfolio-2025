@@ -498,8 +498,8 @@ footer {
         margin-top: 100px;
     }
 
-    .botao-projetos {
-        width: auto;
+    .botao-projetos a {
+        width: 30%; 
     }
 }
 
@@ -518,8 +518,8 @@ footer {
         margin-top: 100px;
     }
 
-    .botao-projetos {
-        width: auto;
+    .botao-projetos a {
+        width: 30%; 
     }
 }
 
@@ -555,8 +555,8 @@ footer {
         margin-top: 100px;
     }
 
-    .botao-projetos {
-        width: auto;
+    .botao-projetos a {
+        width: 30%;
     }
 }
 
@@ -576,8 +576,8 @@ footer {
     .profile-pic {
         margin-top: 100px;
     }
-    .botao-projetos {
-        width: auto;
+    .botao-projetos a  {
+        width: 30%;   
     }
 }
 
